@@ -11,3 +11,7 @@ function multiplesOfThree(){
     }
 }
 multiplesOfThree()
+
+function multiplesOfThreeOrFive() {
+    console.log("TEST")
+}
